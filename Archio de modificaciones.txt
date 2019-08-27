@@ -1,3 +1,7 @@
-Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
+Emilio_Moran
 
-Chelsi_Sedano
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/chelsi122/tarea_colaborativo
+https://github.com/EmilioMH01/tarea_colaborativo"
+
